@@ -1,0 +1,68 @@
+{
+  "memberships": [
+    {
+      "name": "One Month Membership",
+      "created_at": "2019-01-27T12:08:39.000Z",
+      "start_date": "2019-02-01",
+      "amount": 50,
+      "payment_id": "Ragzzyr",
+      "userId": 634,
+      "order_id": null,
+      "club_id": "620",
+      "payment_type": 1,
+      "id": 1
+    },
+    {
+      "name": "3 Months Membership",
+      "created_at": "2019-02-12",
+      "start_date": "2019-02-01",
+      "end_date": "2019-05-02",
+      "amount": 120,
+      "payment_id": "Ragzzyr",
+      "userId": 634,
+      "order_id": null,
+      "club_id": "620",
+      "payment_type": 1,
+      "id": 2
+    },
+    {
+      "name": "6 Months Membership",
+      "created_at": "2019-02-12",
+      "start_date": "2019-03-01",
+      "end_date": "2019-08-28",
+      "amount": 220,
+      "payment_id": "Ragzzyr",
+      "userId": 634,
+      "order_id": null,
+      "club_id": "620",
+      "payment_type": 1,
+      "id": 3
+    },
+    {
+      "name": "One Month Membership",
+      "created_at": "2019-02-12",
+      "start_date": "2019-02-01",
+      "end_date": "2019-03-03",
+      "amount": 50,
+      "payment_id": "Ragzzyr",
+      "userId": 631,
+      "order_id": null,
+      "club_id": "620",
+      "payment_type": 1,
+      "id": 4
+    },
+    {
+      "name": "6 Months Membership",
+      "created_at": "2019-02-12",
+      "start_date": "2019-02-09",
+      "end_date": "2019-08-08",
+      "amount": 220,
+      "payment_id": "Ragzzyr",
+      "userId": 631,
+      "order_id": null,
+      "club_id": "620",
+      "payment_type": 1,
+      "id": 5
+    }
+  ]
+}
